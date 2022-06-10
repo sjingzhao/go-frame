@@ -1,0 +1,8 @@
+time_zone: Asia/Shanghai
+http:
+  name: sns-api
+  host: 0.0.0.0
+  port: 8888
+
+log:
+  path: .
