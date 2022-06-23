@@ -1,4 +1,4 @@
-module go-frame
+module github.com/sjingzhao/go-frame
 
 go 1.17
 
