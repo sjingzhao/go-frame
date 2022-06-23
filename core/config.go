@@ -2,8 +2,8 @@ package core
 
 import (
     "fmt"
-    "go-frame/httpx"
-    "go-frame/logx"
+    "github.com/sjingzhao/go-frame/httpx"
+    "github.com/sjingzhao/go-frame/logx"
     "io/ioutil"
 
     "gopkg.in/yaml.v2"

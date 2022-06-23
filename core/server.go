@@ -3,10 +3,10 @@ package core
 import (
     "context"
     "fmt"
-    "go-frame/crontabx"
-    "go-frame/httpx"
-    "go-frame/logx"
-    "go-frame/scriptx"
+    "github.com/sjingzhao/go-frame/crontabx"
+    "github.com/sjingzhao/go-frame/httpx"
+    "github.com/sjingzhao/go-frame/logx"
+    "github.com/sjingzhao/go-frame/scriptx"
     "sync"
     "time"
 )

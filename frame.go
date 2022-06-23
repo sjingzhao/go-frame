@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "go-frame/core"
-    "go-frame/logic"
+    "github.com/sjingzhao/go-frame/core"
+    "github.com/sjingzhao/go-frame/logic"
     "time"
 )
 
